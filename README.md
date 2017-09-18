@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/1XkIqhB3HHY2fligq-IlitGbHlLeEjDiay9-1QE5UVW8/edit?usp=sharing
+
 [//]: # (Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya)
 ## Latar Belakang
 
