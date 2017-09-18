@@ -13,4 +13,4 @@ https://docs.google.com/document/d/1XkIqhB3HHY2fligq-IlitGbHlLeEjDiay9-1QE5UVW8/
 ## Ingin dapat mengaplikasikan logic programming di dunia nyata, termasuk membuat problem solving application yang dapat mempermudah kehidupan manusia.
 
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
-## Semoga semua cita-cita saya dapat tercapai dengan mengikuti program immersive Hacktiv8
+## Semoga semua cita-cita saya dapat tercapai dengan mengikuti program immersive Hacktiv8.
